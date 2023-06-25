@@ -1,0 +1,20 @@
+     
+      .may{
+           border:0.5px solid;
+           padding: 10px;
+           margin: 0; 
+           width: 500px;        
+           }
+
+      .erren{
+             margin-right : 0px;
+             margin-left: 10px;
+             padding:10px;
+             border: 0.5px solid;
+             width: 455px;
+             }
+
+       .ul
+             {                 
+        list-style-type: none;
+             }
